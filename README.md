@@ -1,98 +1,52 @@
-﻿**DMDW LAB**
+# DMDW Lab
 
+This repository contains practical assignments and coursework for **Data Mining and Data Warehousing (DMDW)**.
 
+## Assignments
 
-This repository contains the assignments and practical work for \*\*Data Mining and Data Warehousing (DMDW)\*\*.
+| Assignment | Contents |
+| --- | --- |
+| Assignment 01 | Python practical programs and supporting text files |
+| Assignment 02 | Python practical programs |
+| Assignment 03 | Jupyter Notebook |
+| Assignment 04 | Jupyter Notebook |
+| Assignment 05 | Jupyter Notebook |
+| Assignment 06 | Jupyter Notebook |
+| Assignment 07 | Jupyter Notebook |
+| Assignment 08 | Jupyter Notebook |
+| Assignment 09 | Jupyter Notebook |
 
-📚 Assignments
+## Technologies
 
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Data Mining
+- Data Warehousing
 
-
-| Assignment | Description |
-
-|---|---|
-
-| Assignment 01 | DMDW Practical Assignment 01 |
-
-| Assignment 02 | DMDW Practical Assignment 02 |
-
-| Assignment 03 | DMDW Practical Assignment 03 |
-
-| Assignment 04 | DMDW Practical Assignment 04 |
-
-| Assignment 05 | DMDW Practical Assignment 05 |
-
-| Assignment 06 | DMDW Practical Assignment 06 |
-
-| Assignment 07 | DMDW Practical Assignment 07 |
-
-
-
-🛠️ Technologies
-
-
-
-\- Python
-
-\- Jupyter Notebook
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Data Mining
-
-\- Data Warehousing
-
-
-
-📂 Repository Structure
-
-
+## Repository Structure
 
 ```text
-
 DMDW-LAB/
-
-│
-
 ├── Assignment-01/
-
 ├── Assignment-02/
-
 ├── Assignment-03/
-
 ├── Assignment-04/
-
 ├── Assignment-05/
-
 ├── Assignment-06/
-
 ├── Assignment-07/
-
-│
-
+├── Assignment-08/
+├── Assignment-09/
 └── README.md
-
 ```
 
-👨‍💻 Author
-
-
-
-Sujit Kumar Sahu
-
-
-
-B.Tech CSE
-
-
-
-📌 Purpose
-
-
+## Purpose
 
 This repository is maintained for academic DMDW laboratory assignments, practical implementations, and related coursework.
 
+## Author
+
+**Sujit Kumar Sahu**
+B.Tech CSE
